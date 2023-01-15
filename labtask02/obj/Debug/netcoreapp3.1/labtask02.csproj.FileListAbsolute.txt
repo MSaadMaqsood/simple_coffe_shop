@@ -1,0 +1,14 @@
+C:\Users\ABC\Documents\kiet\Software Construction\lab\lab10\labtask02\labtask02\labtask02\bin\Debug\netcoreapp3.1\labtask02.exe
+C:\Users\ABC\Documents\kiet\Software Construction\lab\lab10\labtask02\labtask02\labtask02\bin\Debug\netcoreapp3.1\labtask02.deps.json
+C:\Users\ABC\Documents\kiet\Software Construction\lab\lab10\labtask02\labtask02\labtask02\bin\Debug\netcoreapp3.1\labtask02.runtimeconfig.json
+C:\Users\ABC\Documents\kiet\Software Construction\lab\lab10\labtask02\labtask02\labtask02\bin\Debug\netcoreapp3.1\labtask02.runtimeconfig.dev.json
+C:\Users\ABC\Documents\kiet\Software Construction\lab\lab10\labtask02\labtask02\labtask02\bin\Debug\netcoreapp3.1\labtask02.dll
+C:\Users\ABC\Documents\kiet\Software Construction\lab\lab10\labtask02\labtask02\labtask02\bin\Debug\netcoreapp3.1\labtask02.pdb
+C:\Users\ABC\Documents\kiet\Software Construction\lab\lab10\labtask02\labtask02\labtask02\obj\Debug\netcoreapp3.1\labtask02.csproj.AssemblyReference.cache
+C:\Users\ABC\Documents\kiet\Software Construction\lab\lab10\labtask02\labtask02\labtask02\obj\Debug\netcoreapp3.1\labtask02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\Documents\kiet\Software Construction\lab\lab10\labtask02\labtask02\labtask02\obj\Debug\netcoreapp3.1\labtask02.AssemblyInfoInputs.cache
+C:\Users\ABC\Documents\kiet\Software Construction\lab\lab10\labtask02\labtask02\labtask02\obj\Debug\netcoreapp3.1\labtask02.AssemblyInfo.cs
+C:\Users\ABC\Documents\kiet\Software Construction\lab\lab10\labtask02\labtask02\labtask02\obj\Debug\netcoreapp3.1\labtask02.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Documents\kiet\Software Construction\lab\lab10\labtask02\labtask02\labtask02\obj\Debug\netcoreapp3.1\labtask02.dll
+C:\Users\ABC\Documents\kiet\Software Construction\lab\lab10\labtask02\labtask02\labtask02\obj\Debug\netcoreapp3.1\labtask02.pdb
+C:\Users\ABC\Documents\kiet\Software Construction\lab\lab10\labtask02\labtask02\labtask02\obj\Debug\netcoreapp3.1\labtask02.genruntimeconfig.cache
